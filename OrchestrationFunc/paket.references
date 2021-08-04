@@ -1,0 +1,17 @@
+﻿FSharp.Core
+FsToolkit.ErrorHandling
+
+Azure.Identity
+
+Microsoft.ApplicationInsights
+
+Microsoft.AspNetCore.Mvc.NewtonsoftJson
+
+Microsoft.Azure.Functions.Extensions
+Microsoft.Azure.WebJobs.Extensions.DurableTask
+
+Microsoft.Extensions.Logging
+Microsoft.Extensions.Configuration
+Microsoft.Extensions.Configuration.AzureAppConfiguration
+
+Microsoft.NET.Sdk.Functions
